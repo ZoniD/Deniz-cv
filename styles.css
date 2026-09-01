@@ -411,3 +411,7 @@ main, .site-footer { position: relative; z-index: 10; }
   .project-row-detailed .project-content h3 { margin-top: 70px; }
   .project-learning { grid-template-columns: 1fr; gap: 10px; }
 }
+
+.competency-meta span:first-child {
+  display: none;
+}
