@@ -75,7 +75,3 @@ http://localhost:5500
 ## Replace
 
 Replace the LinkedIn placeholder in `index.html` with the real URL.
-
-
-## Content update
-Detailed Workly and Slikskoven project descriptions plus competency-focused IT section added.
